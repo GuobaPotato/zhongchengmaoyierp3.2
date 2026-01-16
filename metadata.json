@@ -1,0 +1,7 @@
+{
+  "name": "感应器ERP系统 3.1",
+  "description": "A comprehensive Enterprise Resource Planning system specifically designed for sensor manufacturing, featuring real-time inventory tracking, production monitoring, and AI-driven supply chain insights powered by Gemini 3.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
